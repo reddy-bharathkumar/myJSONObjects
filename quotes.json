@@ -1,0 +1,136 @@
+[
+  {
+  "quote" : "Frankly, my dear, I don't give a damn.",
+  "author" : "Rhett Butler",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Clark Gable",
+                "movieName" : "Gone with the Wind",
+                "year" : "1939",
+                "director" : "Victor Fleming" 
+             }
+  },
+  {
+  "quote" : "I'm gonna make him an offer he can't refuse.",
+  "author" : "Vito Corleone", 
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Marlon Brando",
+                "movieName" : "The Godfather",
+                "year" : "1972",
+                "director" : "Francis Ford Coppola"
+             }
+  },
+  {
+  "quote" : "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+  "author" : "Terry Malloy",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Marlon Brando",
+                "movieName" : "On the Waterfront",
+                "year" : "1954",
+                "director" : "Elia Kazan"
+             }
+  },
+  {
+  "quote" : "Toto, I've a feeling we're not in Kansas anymore.",
+  "author" : "Dorothy Gale",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Judy Garland",
+                "movieName" : "The Wizard of Oz",
+                "year" : "1939",
+                "director" : "Victor Fleming"
+             }
+  },
+  {
+  "quote" : "Here's looking at you, kid.",
+  "author" : "Rick Blaine",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Humphrey Bogart",
+                "movieName" : "Casablanca",
+                "year" : "1942",
+                "director" : "Michael Curtiz"
+             }
+  },
+  {
+  "quote" : "Go ahead, make my day.",
+  "author" : "Harry Callahan",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Clint Eastwood",
+                "movieName" : "Sudden Impact",
+                "year" : "1983",
+                "director" : "Clint Eastwood"
+             }
+  },
+  {
+  "quote" : "All right, Mr. DeMille, I'm ready for my close-up.",
+  "author" : "Norma Desmond",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Gloria Swanson",
+                "movieName" : "Sunset Boulevard",
+                "year" : "1950",
+                "director" : "Billy Wilder"
+             }
+  },
+  {
+  "quote" : "May the Force be with you.",
+  "author" : "Han Solo",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Harrison Ford",
+                "movieName" : "Star Wars",
+                "year" : "1977",
+                "director" : "George Lucas"
+             }
+  },
+  {
+  "quote" : "Fasten your seatbelts. It's going to be a bumpy night.",
+  "author" : "Margo Channing",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Bette Davis",
+                "movieName" : "All About Eve",
+                "year" : "1950",
+                "director" : "Joseph L Mankiewicz",
+             }
+  },
+  {
+  "quote" : "You talkin' to me?",
+  "author" : "Travis Bickle",
+  "genre" : "movie",
+  "source" : {
+                "actorName" : "Robert De Niro",
+                "movieName" : "Taxi Driver",
+                "year" : "1976",
+                "director" : "Martin Scorcese",
+             }
+  },
+  {
+  "quote" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+  "author" : "Albert Einstein",
+  "genre" : "Science",
+  "source" : "This quote, first appearing in Ego, Hunger, and Aggression: a Revision of Freud’s Theory and Method by Frederick S. Perls. Einstein (1879 - 1955) is known to have clashed with popular thinking and the limited imagination of fellow scientists and the public"
+  },
+  {
+  "quote" : "It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.",
+  "author" : "Georg C. Lichtenberg",
+  "genre" : "Science",
+  "source" : "Georg Lichtenberg (1742 - 1799) was a German experimental physicist known for satire. Science is built upon previous knowledge, which is incredible that what is now common sense mathematics was once never before discovered or thought of."
+  },
+  {
+  "quote" : "A man who dares to waste one hour of time has not discovered the value of life",
+  "author" : "Charles Darwin",
+  "genre" : "Science",
+  "source" : "Charles Darwin (1809 - 1882) was a naturalist and geologist who pioneered the field of evolutionary biology. Want to accomplish as much as Darwin did in his lifetime, adhere to his advice and don't waste one single hour of your time."
+  },
+  {
+  "quote" : "You cannot teach a man anything; you can only help him discover it in himself.",
+  "author" : "Galileo",
+  "genre" : "Science",
+  "source" : "Galileo Galilei (1564 - 1642) was an Italian astronomer, mathematician, physicist, and philosopher. Galileo's quote is one echoed for generations that one must learn something for themselves. Your mom may have told you the burner was hot as a kid but you eventually tested it for yourself."
+  }
+]
